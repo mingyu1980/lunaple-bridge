@@ -33,11 +33,14 @@
 - https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/inbox/active/fix-2026-04-19T16-10-48.md
 - https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/inbox/active/fix-2026-04-19T16-21-03.md
 - https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/inbox/active/fix-2026-04-19T16-21-04.md
+- https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/inbox/active/fix-2026-04-19T16-21-05.md
+- https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/inbox/active/fix-2026-04-19T16-21-10.md
 - https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/inbox/active/next-task-2026-04-19T15-00-11.md
 - https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/inbox/active/next-task-2026-04-19T15-00-12.md
 - https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/inbox/active/next-task-2026-04-19T15-00-13.md
 - https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/inbox/active/next-task-2026-04-19T15-00-15.md
 - https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/inbox/active/next-task-2026-04-19T15-00-19.md
+- https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/inbox/active/next-task-2026-04-19T16-21-10.md
 
 ## bridge/logs
 - https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/logs/cost-2026-04-19.json
@@ -47,6 +50,7 @@
 - https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/outbox/completed/test-report-owner.md
 - https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/outbox/completed/test-report-pass.md
 - https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/outbox/pending/index-test.md
+- https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/outbox/pending/prokerala-auth-test-2026-04-19T16-26-04.md
 - https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/bridge/outbox/pending/sync-trigger.md
 
 ## owner/README.md
@@ -61,5 +65,5 @@
 - https://raw.githubusercontent.com/mingyu1980/lunaple-bridge/main/owner/questions/pending/2026-04-19-14-39-15.md
 
 ---
-Total files: 42
-Last updated: 2026-04-19T16:21:05.686Z
+Total files: 46
+Last updated: 2026-04-19T16:26:11.864Z
