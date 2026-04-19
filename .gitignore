@@ -1,0 +1,12 @@
+*.env
+*.key
+*.pem
+*secret*
+*token*
+*credential*
+bridge/logs/*.log.*
+bridge/logs/**/*.gz
+cso-daemon/verifier/screenshots/
+node_modules/
+.DS_Store
+Thumbs.db
