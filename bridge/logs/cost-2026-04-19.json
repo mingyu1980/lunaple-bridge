@@ -1,6 +1,6 @@
 {
   "date": "2026-04-19",
-  "totalCost": 1.3486410000000002,
+  "totalCost": 1.4493810000000003,
   "calls": [
     {
       "time": "2026-04-19T14:38:06.071Z",
@@ -544,6 +544,62 @@
       "inputTokens": 3458,
       "outputTokens": 301,
       "cost": 0.014889,
+      "purpose": "verify (sonnet)"
+    },
+    {
+      "time": "2026-04-19T16:10:44.213Z",
+      "model": "claude-sonnet-4-6",
+      "inputTokens": 3458,
+      "outputTokens": 288,
+      "cost": 0.014694,
+      "purpose": "verify (sonnet)"
+    },
+    {
+      "time": "2026-04-19T16:10:48.832Z",
+      "model": "claude-sonnet-4-6",
+      "inputTokens": 3458,
+      "outputTokens": 299,
+      "cost": 0.014859,
+      "purpose": "verify (sonnet)"
+    },
+    {
+      "time": "2026-04-19T16:10:48.968Z",
+      "model": "claude-sonnet-4-6",
+      "inputTokens": 3483,
+      "outputTokens": 292,
+      "cost": 0.014829,
+      "purpose": "verify (sonnet)"
+    },
+    {
+      "time": "2026-04-19T16:21:03.317Z",
+      "model": "claude-sonnet-4-6",
+      "inputTokens": 3469,
+      "outputTokens": 240,
+      "cost": 0.014007,
+      "purpose": "verify (sonnet)"
+    },
+    {
+      "time": "2026-04-19T16:21:03.505Z",
+      "model": "claude-sonnet-4-6",
+      "inputTokens": 3469,
+      "outputTokens": 237,
+      "cost": 0.013962,
+      "purpose": "verify (sonnet)"
+    },
+    {
+      "time": "2026-04-19T16:21:03.766Z",
+      "model": "claude-sonnet-4-6",
+      "inputTokens": 3469,
+      "outputTokens": 240,
+      "cost": 0.014007,
+      "purpose": "verify (sonnet)"
+    },
+    {
+      "time": "2026-04-19T16:21:04.164Z",
+      "model": "claude-sonnet-4-6",
+      "inputTokens": 3469,
+      "outputTokens": 265,
+      "cost": 0.014382,
       "purpose": "verify (sonnet)"
     }
   ]
